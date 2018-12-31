@@ -2,6 +2,5 @@ django
 djangorestframework
 django-rest-framework-mongoengine
 mongoengine
-
 Celery
 requests
